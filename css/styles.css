@@ -203,6 +203,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     border: 1px solid #8e8f99;
     background: var(--bright_text-color);
     margin-bottom: 8px;
+    background-color: #f4f4fd; 
 }
 
 .unordered-list-first{
