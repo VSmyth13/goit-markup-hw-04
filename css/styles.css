@@ -237,6 +237,33 @@ margin-bottom: 8px;
 
 }
 
+
+.socials-net{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials-net .link {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background-color: var(--primary-brand-color);
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+  }
+  .socials-net .link:hover,
+  .socials-net .link:focus {
+    background-color: var(--active-button-color);
+  }
+  
+  .socials-net .icon {
+    fill: var(--bright_text-color);
+  }
+  
+
 .unordered-list-second{
     display: flex;
     gap: 24px;
