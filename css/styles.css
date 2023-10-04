@@ -249,7 +249,7 @@ margin-bottom: 8px;
     display: flex;
     width: 40px;
     height: 40px;
-    background-color: var(--primary-brand-color);
+    background-color: #404bbf;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
