@@ -256,7 +256,7 @@ margin-bottom: 8px;
   }
   .socials-net .link:hover,
   .socials-net .link:focus {
-    background-color: var(--active-button-color);
+    background-color: #4d5ae5;
   }
   
   .socials-net .icon {
