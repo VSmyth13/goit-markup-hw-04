@@ -67,6 +67,11 @@ img{
 .liwebstudio:focus{
     color:#404bbf;
 }
+
+.liwebstudio::after{
+    content: '';
+}
+
 .address{
     font-style: normal;
 }
