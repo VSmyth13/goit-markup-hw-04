@@ -11,6 +11,7 @@ img{
 
 .header{
     border-bottom: 1px solid #e7e9fc;
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .divheader{
@@ -59,6 +60,8 @@ img{
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding: 24px 0;
+    position: relative;
+    color: #404bbf
 }
 .liwebstudio:hover,
 .liwebstudio:focus{
