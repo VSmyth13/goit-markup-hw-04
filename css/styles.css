@@ -413,3 +413,8 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin-bottom: 16px; 
     margin-top: 0
 }
+
+.ulsnf{
+    display: flex;
+    gap: 16px;
+}
